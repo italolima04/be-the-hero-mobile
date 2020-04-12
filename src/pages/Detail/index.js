@@ -28,7 +28,7 @@ export default function Detail() {
   }
 
   function sendWhatsapp() {
-    Linking.openURL(`whatsapp://send?phone=+5588999251547&text=${message}`);
+    Linking.openURL(`whatsapp://send?phone=+559991015100&text=${message}`);
   }
 
   return (
